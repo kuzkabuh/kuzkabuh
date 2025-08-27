@@ -1,0 +1,13 @@
+Django==5.0.7
+psycopg2-binary==2.9.9
+dj-database-url==2.2.0
+python-dotenv==1.0.1
+requests==2.32.3
+weasyprint==62.3
+Pillow==10.4.0
+django-htmx==1.17.2
+django-crispy-forms==2.2
+crispy-bootstrap5==2024.2
+django-taggit==6.0.0
+django-filter==24.2
+django-sitemaps==1.1.1
